@@ -1,0 +1,15 @@
+{
+    "name": "cliff363825/yii2-bower-asset",
+    "description": "Yii2 bower asset",
+    "type": "yii2-extension",
+    "keywords": ["yii2","bower"],
+    "license": "MIT",
+    "provide": {
+        "bower-asset/bootstrap": "*",
+        "bower-asset/inputmask": "*",
+        "bower-asset/jquery": "*",
+        "bower-asset/punycode": "*",
+        "bower-asset/typeahead.js": "*",
+        "bower-asset/yii2-pjax": "*"
+    }
+}
